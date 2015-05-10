@@ -1,2 +1,2 @@
 # R-Daily
-Pieces of code I use repeatedly linking together that generate a stupidly simple outcome.
+Pieces of code I use repeatedly that generate a stupidly simple outcome.
